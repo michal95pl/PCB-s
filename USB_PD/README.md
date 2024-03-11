@@ -1,4 +1,4 @@
-# USB power delivery IC test module
+# USB power delivery IC module
 The module is CYPD3177-24LQXQ from Infineon Technologies.
 Resistors are set for 20V and minimum 2A.
 
